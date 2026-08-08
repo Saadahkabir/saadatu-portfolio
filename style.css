@@ -116,3 +116,38 @@ footer {
 .hero-buttons a:hover {
     opacity: 0.8;
 }
+/* Projects */
+
+.project-item {
+    background: #f9fafb;
+    padding: 25px;
+    margin-top: 20px;
+    border-radius: 12px;
+    border: 1px solid #e5e7eb;
+}
+
+.project-item h3 {
+    color: #111827;
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+
+.project-item p {
+    margin-bottom: 12px;
+}
+
+.project-item ul {
+    margin-top: 10px;
+}
+
+.project-item a {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #111827;
+}
+
+.project-item a:hover {
+    text-decoration: underline;
+}
